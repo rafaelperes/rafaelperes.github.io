@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-icon: 🔥 # the emoji used as the favicon
+icon: 🔎 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -46,7 +46,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: rafaelperes
 twitter_username: rafaelperes
 linkedin_username: rafaelperes
-scholar_userid: w12iyzIAAAAJ&hl
+scholar_userid: w12iyzIAAAAJ&hl=en
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -58,6 +58,7 @@ blogger_url: # your blogger URL
 contact_note: >
 
 google_analytics:  UA-1208335-9  # out your google-analytics code
+google_analytics_ga4: G-C9P38JZKX6
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
